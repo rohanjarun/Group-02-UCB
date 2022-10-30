@@ -33,3 +33,6 @@ Rohan: Pandas/Repository management/Tableau 1, 2, 3 ,4, 5, 14, 15, 16
 Jigisha Bengali: Collect/Clean the data, Python: 4,7 & 8 (SQL, Pandas,ETL)
 Andrew: Dashboard, slides, Python, 1, 2, 3, 4, 5, 7(ish), 14
 Akbar: Databases, SQL, Pandas 3,4,5,6,7,8,9,13,16,17
+
+## Communication Methods
+Slack, Email, iMessage, 5 days a week general meetup. 
