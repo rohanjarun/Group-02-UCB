@@ -35,4 +35,4 @@ Andrew: Dashboard, slides, Python, 1, 2, 3, 4, 5, 7(ish), 14
 Akbar: Databases, SQL, Pandas 3,4,5,6,7,8,9,13,16,17
 
 ## Communication Methods
-Slack, Email, iMessage, 5 days a week general meetup. 
+Slack, Email, iMessage, 5 days a week general meetup via Zoom. 
