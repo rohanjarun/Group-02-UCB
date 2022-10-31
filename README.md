@@ -2,13 +2,13 @@
 Project Repository for the final project.
 
 ## Table of Contents
-[Team Members] (#Team-Members)
-[Question] (#Question)
-[Project Summary] (#Project-Summary)
-[Data Sources] (#Data-Sources)
-[Tools] (#Tools)
-[Task Breakdown] (#Task-Breakdown)
-[Communication Methods] (#Communication-Methods)
+[Team Members](#team-members)
+[Question](#question)
+[Project Summary](#project-summary)
+[Data Sources](#data-sources)
+[Tools](#tools)
+[Task Breakdown](#task-breakdown)
+[Communication Methods](#communication-methods)
  
 ## Team Members
 #### Rohan Arun
@@ -18,7 +18,7 @@ Project Repository for the final project.
 #### Akbar Saidakramov
 
 ## Question
-Government Spending Analysis - 
+Government Spending Analysis: 
 How does the US government spending contracts correlate to the raw material prices?
 How does the US government spendning contracts impact inflation/economy
 
