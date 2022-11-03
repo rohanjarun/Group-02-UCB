@@ -26,7 +26,7 @@ Project Repository for the final project.
 
 ## Question
 Government Spending Analysis: 
-How does the US government spending contracts correlate to the raw material prices?
+How does the US government spending contracts correlate to the natural gas prices?
 How does the US government spendning contracts impact inflation/economy
 
 ## Project Summary
@@ -37,7 +37,10 @@ The government and its spending are essential to us as taxpayers, and we want to
 ## Data Sources
  - Commodity Market Data Montly: www.worldbank.org/en/research/commodity-markets
  - US Fed Spending API: https://api.usaspending.gov/api/v2/search/spending_by_award
-
+ 
+### Description of the Data Source
+ -Comparing federal contracts spending for natural gas to the natural gas index.  
+ 
 ## Tools
 - Python
 - Pandas
@@ -58,4 +61,4 @@ Andrew: Dashboard, slides, Python, 1, 2, 3, 4, 5, 7(ish), 14
 Akbar: Databases, SQL, Pandas 3,4,5,6,7,8,9,13,16,17
 
 ## Communication Methods
-Slack, Email, iMessage, 5 days a week general meetup via Zoom. 
+Slack, Email, iMessage, 3 days a week general meetup via Zoom and discuss tasks/delivarables
