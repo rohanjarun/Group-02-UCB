@@ -2,7 +2,7 @@ drop table public.cmo_monthly_prices
 ;
 CREATE TABLE IF NOT EXISTS public.cmo_monthly_prices
 (       
-        Year_Month character varying COLLATE pg_catalog."default" NOT NULL,
+        Month character varying COLLATE pg_catalog."default" NOT NULL,
 	Crude_oil_average NUMERIC (10, 2),
 	Crude_oil_Brent NUMERIC (10, 2),
 	Crude_oil_Dubai NUMERIC (10, 2),
@@ -74,7 +74,7 @@ CREATE TABLE IF NOT EXISTS public.cmo_monthly_prices
 	Gold NUMERIC (10, 2),
 	Platinum NUMERIC (10, 2),
 	Silver NUMERIC (10, 2),
-        CONSTRAINT cmo_monthly_prices__pkey PRIMARY KEY (Year_Month)
+        CONSTRAINT cmo_monthly_prices__pkey PRIMARY KEY (Month)
 )   
 ;
 --

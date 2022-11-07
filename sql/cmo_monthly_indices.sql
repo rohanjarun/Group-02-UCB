@@ -2,7 +2,7 @@ drop table public.cmo_monthly_indices
 ;
 CREATE TABLE IF NOT EXISTS public.cmo_monthly_indices
 (       
-        Year_Month character varying COLLATE pg_catalog."default" NOT NULL,
+        Month character varying COLLATE pg_catalog."default" NOT NULL,
         Energy NUMERIC (10, 2),
         Non_Energy  NUMERIC (10, 2),
         Agriculture NUMERIC (10, 2),
@@ -18,11 +18,11 @@ CREATE TABLE IF NOT EXISTS public.cmo_monthly_indices
 		Metals_Minerals  NUMERIC (10, 2),
         Metals_Minerals_Base_Metals  NUMERIC (10, 2),
         Precious_Metal  NUMERIC (10, 2),
-        CONSTRAINT cmo_monthly_indices__pkey PRIMARY KEY (Year_Month)
+        CONSTRAINT cmo_monthly_indices__pkey PRIMARY KEY (Month)
 )   
 ;
 --
--- Import cmo_monthly_indices.csv file using PgAdmin import 
+-- Import clean_indices.csv file using PgAdmin import 
 --
 -- Verify data exists 
 -- select * from cmo_monthly_indices;
