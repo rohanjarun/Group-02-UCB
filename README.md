@@ -30,7 +30,7 @@ How does the US government spending contracts correlate to the natural gas price
 How does the US government spendning contracts impact inflation/economy
 
 ## Project Summary
-Using Government Spending Contracts API to visualize and identify trends compared to raw material prices.
+Using Government Spending Contracts API to visualize and identify trends compared to natural gas prices.
 
 The government and its spending are essential to us as taxpayers, and we want to analyze/visualize the government's expenditure to help improve or understand the reason prices of certain items fluctuate.
 
@@ -61,4 +61,4 @@ Andrew: Dashboard, slides, Python, 1, 2, 3, 4, 5, 7(ish), 14
 Akbar: Databases, SQL, Pandas 3,4,5,6,7,8,9,13,16,17
 
 ## Communication Methods
-Slack, Email, iMessage, 3 days a week general meetup via Zoom and discuss tasks/delivarables
+Slack, Email, iMessage, 3 days a week general meetup via Zoom and discuss tasks/deliverables
