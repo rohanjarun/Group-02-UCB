@@ -48,6 +48,7 @@ The government and its spending are essential to us as taxpayers, and we want to
 - NumPy
 - SciPy
 - Tableau
+- Google Colaboratory
 
 ## Task Breakdown
 Ryan Chapman: Setting up APIs, Webpage, Pandas/Tableau, Machine Learning Modules 6, 10,13, 17/18 ish
