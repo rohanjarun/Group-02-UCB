@@ -1,6 +1,6 @@
 drop table top_20_energy_contracts_by_contract_amount
 ;
-create table top_20_energy_contracts_by_contract_amount 
+create table top_20_energy_contracts_by_contract_amount as 
 select i.month, i.energy as energy_monthly_indices,
    sum(c.total_obligated_amount) as total_contract_amount 
 from energy_contracts as c,
