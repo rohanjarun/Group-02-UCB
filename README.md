@@ -38,6 +38,11 @@ The government and its spending are essential to us as taxpayers, and we want to
  - Commodity Market Data Montly: www.worldbank.org/en/research/commodity-markets
  - US Fed Spending API: https://api.usaspending.gov/api/v2/search/spending_by_award
  
+## Data Exploration
+- Our team used (contracts.csv) and (prices.csv) and cleaned the data, along with trimming it to get the essential information relevant to our question. We exported the relevant information into new csvs after trimming the information (10,000 rows were reduced to 1,500 rows of information) and used this information to draw connections and correlations. 
+
+## Data Analysis
+
 ### Description of the Data Source
  -Comparing federal contracts spending for natural gas to the natural gas index. 
  
