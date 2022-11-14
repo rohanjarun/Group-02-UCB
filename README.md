@@ -45,7 +45,7 @@ The government and its spending are essential to us as taxpayers, and we want to
 - Our team used Python to merge (contracts.csv) and (prices.csv) into a DataFrame. We then cleaned the data and trimmed row outputs to get the essential information relevant to our question. We exported the relevant information into new csvs after reducing the data from approximately 10,000 rows to 1,500 relevant rows. 
 
 ## Data Analysis & Visualization
-- 
+- We used matplotlib, scipy, and numpy to create plots and linear regressions between awarded government contracts and US natural gas prices.
 
 ### Description of the Data Source
  -Comparing federal contracts spending for natural gas to the natural gas index. 
