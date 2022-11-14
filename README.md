@@ -31,6 +31,9 @@ How does the US government spending contracts correlate to the natural gas price
 ## Project Summary
 Using Government Spending Contracts API to visualize and identify trends compared to natural gas prices.
 
+## Project Outline 
+<img width="1408" alt="Project Outline" src="https://user-images.githubusercontent.com/89552059/201586595-5146f804-204e-46db-9401-866a113f01ec.png">
+
 ## Why it's important?
 The government and its spending are essential to us as taxpayers, and we want to analyze/visualize the government's expenditure to help improve or understand the reason prices of certain items fluctuate. Natural gas is a non-renewable source of energy, it is important as we use it on a daily basis in our households in places like our stove and the heating of our houses. It is a crucial source of energy because it is reliable (there are rarely any outages in a year) and it is also relatively clean compared to other non-renewable sources of energy such as coal and oil.
 
