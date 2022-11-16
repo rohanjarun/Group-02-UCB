@@ -13,4 +13,4 @@ Pandas, Jupyter Notebook, SciKit-Learn, CSV files, Matplotlib, & NumPy
 
 
 ## Visualizations
-Google Slides, Tableau, HTML & Javascript to build an interactive website
+Google Slides, Tableau, HTML, Javascript & CSS to build an interactive website
