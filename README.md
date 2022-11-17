@@ -51,13 +51,10 @@ The government and its spending are essential to us as taxpayers, and we want to
 
 ## Machine Learning
 Model: XGBoost
-
-Input
-N-Estimators: 700
-
-Training Score: 0.4014
-Testing Score: -0.0782
-Mean Squared Error (MSE) on test set: 0.5155
+N-Estimators:
+Training Score:
+Testing Score:
+Mean Squared Error (MSE) on test set:
 Results: 
 
 Model: RandomForrest
