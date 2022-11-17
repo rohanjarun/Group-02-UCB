@@ -36,14 +36,14 @@ Using Government Spending Contracts API to visualize and identify trends compare
 ## Why it's important?
 The government and its spending are essential to us as taxpayers, and we want to analyze/visualize the government's expenditure to help improve or understand the reason prices of certain items fluctuate. Natural gas is a non-renewable source of energy, it is important as we use it on a daily basis in our households in places like our stove and the heating of our houses. It is a crucial source of energy because it is reliable (there are rarely any outages in a year) and it is also relatively clean compared to other non-renewable sources of energy such as coal and oil.
 
-## Data Analysis
+# Data Analysis
 
 ## Data Exploration
 - Our team used (contracts.csv) and (prices.csv) and cleaned the data, along with trimming it to get the essential information relevant to our question. We exported the relevant information into new csvs after trimming the information (10,000 rows were reduced to 1,500 rows of information) and used this information to draw connections and correlations. 
 
 ## Description of the Data Sources
 
-### US Government Energy Contracts (2016-2021)
+### US Government Energy Award Contracts (2016-2021)
 Source: USASPENDING.gov
 Description: US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.
 Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC
