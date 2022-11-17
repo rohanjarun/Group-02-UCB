@@ -18,11 +18,11 @@ Project Repository for the final project.
 7. [Communication Methods](#communication-methods)
  
 ## Team Members
-#### Rohan Arun
-#### Jigisha Bengali
-#### Ryan Chapman
-#### Andrew In
-#### Akbar Saidakramov
+#### Rohan Arun - Project Manager
+#### Jigisha Bengali - Database Designer
+#### Ryan Chapman - Machine Learning Engineer
+#### Andrew In - Data Analyst
+#### Akbar Saidakramov - Web Developer
 
 ## Question
 Government Spending Analysis: 
