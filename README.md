@@ -37,9 +37,7 @@ Using Government Spending Contracts API to visualize and identify trends compare
 The government and its spending are essential to us as taxpayers, and we want to analyze/visualize the government's expenditure to help improve or understand the reason prices of certain items fluctuate. Natural gas is a non-renewable source of energy, it is important as we use it on a daily basis in our households in places like our stove and the heating of our houses. It is a crucial source of energy because it is reliable (there are rarely any outages in a year) and it is also relatively clean compared to other non-renewable sources of energy such as coal and oil.
 
 # Data Analysis
-
-## Description of the Data Sources
-
+## Input Data
 ### US Government Energy Award Contracts (2016-2021)
   Source: USASPENDING.gov
   Description: US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.
