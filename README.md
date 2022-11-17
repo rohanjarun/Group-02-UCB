@@ -40,11 +40,11 @@ The government and its spending are essential to us as taxpayers, and we want to
 ## Input Data
 ### US Government Energy Award Contracts (2016-2021)
   Source: USASPENDING.gov
-  Description: US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.
+  Description: US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.<br />
   Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC
 
 ### Historical Raw Material Market Prices (Pink Sheet)
-  Source: UN associated international financial institution.
+  Source: UN associated international financial institution. <br />
   Description: UN associated international financial institution.
 
 ## Machine Learning
