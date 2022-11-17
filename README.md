@@ -38,9 +38,6 @@ The government and its spending are essential to us as taxpayers, and we want to
 
 # Data Analysis
 
-## Data Exploration
-- Our team used (contracts.csv) and (prices.csv) and cleaned the data, along with trimming it to get the essential information relevant to our question. We exported the relevant information into new csvs after trimming the information (10,000 rows were reduced to 1,500 rows of information) and used this information to draw connections and correlations. 
-
 ## Description of the Data Sources
 
 ### US Government Energy Award Contracts (2016-2021)
@@ -51,6 +48,24 @@ Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC
 ### Historical Raw Material Market Prices (Pink Sheet)
 Source: UN associated international financial institution.
 Description: UN associated international financial institution.
+
+## Machine Learning
+Model: XGBoost
+
+Input
+N-Estimators: 700
+
+Training Score: 0.4014
+Testing Score: -0.0782
+Mean Squared Error (MSE) on test set: 0.5155
+Results: 
+
+Model: RandomForrest
+N-Estimators: 700
+Training Score: 0.4014
+Testing Score: -0.0782
+Mean Squared Error (MSE) on test set: 0.5155
+Results:
 
  
 ## Tools
