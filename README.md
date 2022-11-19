@@ -76,7 +76,7 @@ Ryan Chapman: Setting up APIs, Webpage, Pandas/Tableau, Machine Learning Modules
 
 Rohan: Pandas/Repository management/Tableau 1, 2, 3 ,4, 5, 14, 15, 16
 
-Jigisha Bengali: Collect/Clean the data, Python: 4,7 & 8 (SQL, Pandas,ETL)
+Jigisha Bengali: Collect/Clean the data, Created Join Tables, Top_20 queries, Python: 4,7 & 8 (SQL, Pandas,ETL)
 
 Andrew: Dashboard, slides, Python, 1, 2, 3, 4, 5, 7(ish), 14
 
