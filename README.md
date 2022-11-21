@@ -63,13 +63,18 @@ Mean Squared Error (MSE) on test set: 0.5155
 Results:
 
  
-## Tools
+## Tools, Technologies, & Languages
+- Excel
+- PostgreSQL
+- SQL
 - Python
 - Pandas
 - Matplotlib
 - NumPy
 - SciPy
 - Tableau
+- SQL Alchemy
+- HTML
 
 ## Task Breakdown
 Ryan Chapman: Setting up APIs, Webpage, Pandas/Tableau, Machine Learning Modules 6, 10,13, 17/18 ish
