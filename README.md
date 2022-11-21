@@ -15,14 +15,13 @@ Project Repository for the final project.
 
 6. [Task Breakdown](#task-breakdown)
 
-7. [Communication Methods](#communication-methods)
  
 ## Team Members
-#### Rohan Arun
-#### Jigisha Bengali
-#### Ryan Chapman
-#### Andrew In
-#### Akbar Saidakramov
+#### Rohan Arun - Project Manager
+#### Jigisha Bengali - Database Designer
+#### Ryan Chapman - Machine Learning Engineer
+#### Andrew In - Data Analyst
+#### Akbar Saidakramov - Web Developer
 
 ## Question
 Government Spending Analysis: 
@@ -37,39 +36,57 @@ Using Government Spending Contracts API to visualize and identify trends compare
 ## Why it's important?
 The government and its spending are essential to us as taxpayers, and we want to analyze/visualize the government's expenditure to help improve or understand the reason prices of certain items fluctuate. Natural gas is a non-renewable source of energy, it is important as we use it on a daily basis in our households in places like our stove and the heating of our houses. It is a crucial source of energy because it is reliable (there are rarely any outages in a year) and it is also relatively clean compared to other non-renewable sources of energy such as coal and oil.
 
-## Data Sources
- - Commodity Market Data Montly: www.worldbank.org/en/research/commodity-markets
- - US Fed Spending API: https://api.usaspending.gov/api/v2/search/spending_by_award
- 
-## Data Exploration
-- Our team used (contracts.csv) and (prices.csv) and cleaned the data, along with trimming it to get the essential information relevant to our question. We exported the relevant information into new csvs after trimming the information (10,000 rows were reduced to 1,500 rows of information) and used this information to draw connections and correlations. 
+# Data Analysis
+## Input Data
+### US Government Energy Award Contracts (2016-2021)
+  Source: USASPENDING.gov
+  Description: US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.<br />
+  Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC
 
-## Data Analysis
+### Historical Raw Material Market Prices (Pink Sheet)
+  Source: UN associated international financial institution. <br />
+  Description: UN associated international financial institution.
 
-### Description of the Data Source
- -Comparing federal contracts spending for natural gas to the natural gas index. 
+## Machine Learning
+Model: XGBoost
+N-Estimators:
+Training Score:
+Testing Score:
+Mean Squared Error (MSE) on test set:
+Results: 
+
+Model: RandomForrest
+N-Estimators: 700
+Training Score: 0.4014
+Testing Score: -0.0782
+Mean Squared Error (MSE) on test set: 0.5155
+Results:
+
  
-## Tools
+## Tools, Technologies, & Languages
+- Excel
+- PostgreSQL
+- SQL
 - Python
 - Pandas
 - Matplotlib
 - NumPy
 - SciPy
 - Tableau
+- SQL Alchemy
+- HTML
 
 ## Task Breakdown
 Ryan Chapman: Setting up APIs, Webpage, Pandas/Tableau, Machine Learning Modules 6, 10,13, 17/18 ish
 
 Rohan: Pandas/Repository management/Tableau 1, 2, 3 ,4, 5, 14, 15, 16
 
-Jigisha Bengali: Collect/Clean the data, Python: 4,7 & 8 (SQL, Pandas,ETL)
+Jigisha Bengali: Collect/Clean the data, Created Join Tables, Top_20 queries, Python: 4,7 & 8 (SQL, Pandas,ETL)
 
 Andrew: Dashboard, slides, Python, 1, 2, 3, 4, 5, 7(ish), 14
 
-Akbar: Databases, SQL, Pandas 3,4,5,6,7,8,9,13,16,17
+Akbar: Databases, SQL, Pandas, JavaScript, CSS, HTML
 
-## Communication Methods
-Slack, Email, iMessage, 3 days a week general meetup via Zoom and discuss tasks/deliverables.
 
 ## Link to slides
 https://docs.google.com/presentation/d/1BtSJ0rQH5krcPL6SDq5D2viGjvZ8zvCgHsRkYwpSSaE/edit?usp=sharing
