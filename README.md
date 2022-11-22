@@ -51,8 +51,8 @@ The government and its spending are essential to us as taxpayers, and we want to
 
 ### Data preprocessing
 Encode the Data <br />
-![image](https://user-images.githubusercontent.com/107438816/203438047-eed47b4b-2917-4927-ac5a-ea3a55b7883d.png) <br />
-Scale the Data <br /><br />
+![image](https://user-images.githubusercontent.com/107438816/203438047-eed47b4b-2917-4927-ac5a-ea3a55b7883d.png) <br /><br />
+Scale the Data <br />
 ![image](https://user-images.githubusercontent.com/107438816/203438182-c7490620-013d-4045-8f6f-ea13a3ea56b1.png)
 
 
