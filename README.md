@@ -66,10 +66,9 @@ Categorizing codes to describe products, services, research and development (R&D
 
 ## Machine Learning
 
-### Data preprocessing
-### Encode the Data <br />
+### Data Preprocessing: Encode the Data
 ![image](https://user-images.githubusercontent.com/107438816/203438047-eed47b4b-2917-4927-ac5a-ea3a55b7883d.png) <br /><br />
-### Scale the Data <br />
+### Data Preprocessing: Scale the Data
 ![image](https://user-images.githubusercontent.com/107438816/203438182-c7490620-013d-4045-8f6f-ea13a3ea56b1.png)
 
 ### Features
