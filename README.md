@@ -43,18 +43,17 @@ The government and its spending are essential to us as taxpayers, and we want to
  - Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC<br />
  - Fed Energy Contract Spending (2016-2021) by Award Recipient
 
-  Awarding Agency<br />
+  Subdata: Awarding Agency<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png)
 <br /><br />
-  Award Recipient<br />
+  Subdata: Award Recipient<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png)
 <br /><br />
-  Industry Code (NAICS)<br />
+  Subdata: Industry Code (NAICS)<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439412-effbae38-2a16-4416-9cc2-363a208e44e5.png)
 <br /><br />
-  Product Services Code (PSC)<br />
-![image](https://user-images.githubusercontent.com/107438816/203439434-1d0f0aae-b54a-44a7-9870-f788bf3646dc.png)
-
+  Subdata: Product Services Code (PSC)<br />
+![image](https://user-images.githubusercontent.com/107438816/203439434-1d0f0aae-b54a-44a7-9870-f788bf3646dc.png)<br /><br />
 
 
 ### Target Data: Historical US Natural Gas Prices
