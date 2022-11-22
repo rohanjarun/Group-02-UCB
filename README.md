@@ -50,11 +50,11 @@ The government and its spending are essential to us as taxpayers, and we want to
 ![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png)
 <br /><br />
   **Subdata: Industry Code**<br />
- - NAICS = Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy.<br />
+NAICS = Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy.<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439412-effbae38-2a16-4416-9cc2-363a208e44e5.png)
 <br /><br />
   **Subdata: Product Services Code (PSC)**<br />
-  PSC = categorizing codes to describe products, services, research and development (R&D) purchased by the Federal government. <br />
+PSC = categorizing codes to describe products, services, research and development (R&D) purchased by the Federal government. <br />
 ![image](https://user-images.githubusercontent.com/107438816/203439434-1d0f0aae-b54a-44a7-9870-f788bf3646dc.png)<br /><br />
 
 
