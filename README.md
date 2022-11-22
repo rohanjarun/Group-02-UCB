@@ -24,11 +24,10 @@ Project Repository for the final project.
 #### Akbar Saidakramov - Web Developer
 
 ## Question
-Government Spending Analysis: 
-How does the US government spending contracts correlate to the natural gas prices?
+How does US Federal award contract spending impact natural gas prices?
 
 ## Project Summary
-Using Government Spending Contracts API to visualize and identify trends compared to natural gas prices.
+Exploratory analysis using publically availible federal award contract data to identify and visualize correlations with historic US natural gas prices.
 
 ## Project Outline 
 <img width="1408" alt="Project Outline" src="https://user-images.githubusercontent.com/89552059/201586595-5146f804-204e-46db-9401-866a113f01ec.png">
