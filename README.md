@@ -43,16 +43,16 @@ The government and its spending are essential to us as taxpayers, and we want to
  - Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC<br />
  - Fed Energy Contract Spending (2016-2021) by Award Recipient
 
-  Subdata: Awarding Agency<br />
+  **Subdata: Awarding Agency**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png)
 <br /><br />
-  Subdata: Award Recipient<br />
+  **Subdata: Award Recipient**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png)
 <br /><br />
-  Subdata: Industry Code (NAICS)<br />
+  **Subdata: Industry Code (NAICS)**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439412-effbae38-2a16-4416-9cc2-363a208e44e5.png)
 <br /><br />
-  Subdata: Product Services Code (PSC)<br />
+  **Subdata: Product Services Code (PSC)**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439434-1d0f0aae-b54a-44a7-9870-f788bf3646dc.png)<br /><br />
 
 
@@ -129,7 +129,7 @@ In depth research analysis on correlations between Natural Gas and Limestone Ind
 - HTML
 
 ## Task Breakdown
-Ryan Chapman: Setting up APIs, Webpage, Pandas/Tableau, Machine Learning Modules 6, 10,13, 17/18 ish
+Ryan Chapman: Setting up APIs, Data Cleaning with Pandas, Visualization with Tableau, Machine Learning with Python
 
 Rohan: Pandas/Repository management/Tableau 1, 2, 3 ,4, 5, 14, 15, 16
 
