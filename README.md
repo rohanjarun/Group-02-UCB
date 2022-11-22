@@ -63,7 +63,6 @@ Categorizing codes to describe products, services, research and development (R&D
   ![image](https://user-images.githubusercontent.com/107438816/203439851-312217f5-2d95-419a-8799-95cdae5a6991.png)
 
   
-
 ## Machine Learning
 
 ### Data Preprocessing: Encode the Data
@@ -71,20 +70,10 @@ Categorizing codes to describe products, services, research and development (R&D
 ### Data Preprocessing: Scale the Data
 ![image](https://user-images.githubusercontent.com/107438816/203438182-c7490620-013d-4045-8f6f-ea13a3ea56b1.png)
 
-### Features
 
-
-
-
-### Target
-### Split into training and testing sets
-Model choice, including limitations and benefits
-Changes in model choice
-Description of how model was trained (or retrained, if they are using an
-existing model)
-Description and explanation of model’s confusion matrix, including final
-accuracy score
-
+### Model: Random Forest Regression
+ - Limitations and benefits:
+ - Result Summary: This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model.
 ![image](https://user-images.githubusercontent.com/107438816/203433372-3be51e14-44f5-4646-8703-9735c11fb18b.png)
 
 ![image](https://user-images.githubusercontent.com/107438816/203433466-069a3d3a-bc31-4786-988d-de22843881e2.png)
