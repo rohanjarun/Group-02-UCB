@@ -42,6 +42,21 @@ The government and its spending are essential to us as taxpayers, and we want to
   Source: USASPENDING.gov<br />
   Description: US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.<br />
   Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC<br />
+  Fed Energy Contract Spending (2016-2021) by Award Recipient
+
+Awarding Agency
+![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png)
+
+Award Recipient
+![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png)
+
+Industry Code (NAICS)
+![image](https://user-images.githubusercontent.com/107438816/203439412-effbae38-2a16-4416-9cc2-363a208e44e5.png)
+
+Product Services Code (PSC)
+![image](https://user-images.githubusercontent.com/107438816/203439434-1d0f0aae-b54a-44a7-9870-f788bf3646dc.png)
+
+
 
 ### Historical Raw Material Market Prices (Pink Sheet)
   Source: UN associated international financial institution. <br />
@@ -50,15 +65,18 @@ The government and its spending are essential to us as taxpayers, and we want to
 ## Machine Learning
 
 ### Data preprocessing
-Encode the Data <br />
+### Encode the Data <br />
 ![image](https://user-images.githubusercontent.com/107438816/203438047-eed47b4b-2917-4927-ac5a-ea3a55b7883d.png) <br /><br />
-Scale the Data <br />
+### Scale the Data <br />
 ![image](https://user-images.githubusercontent.com/107438816/203438182-c7490620-013d-4045-8f6f-ea13a3ea56b1.png)
 
+### Features
 
 
-Feature selection
-How data was split into training and testing sets
+
+
+### Target
+### Split into training and testing sets
 Model choice, including limitations and benefits
 Changes in model choice
 Description of how model was trained (or retrained, if they are using an
