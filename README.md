@@ -74,11 +74,13 @@ The government and its spending are essential to us as taxpayers, and we want to
 
 
 ### Model: Random Forest Regression
- - Limitations and benefits:
- - Result Summary: This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model.
+ - Result Summary: This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model next.
 ![image](https://user-images.githubusercontent.com/107438816/203433372-3be51e14-44f5-4646-8703-9735c11fb18b.png)
+<br />
+![image](https://user-images.githubusercontent.com/107438816/203444741-c2886ce0-9c12-438f-90e9-532a81293316.png)
 
-![image](https://user-images.githubusercontent.com/107438816/203433466-069a3d3a-bc31-4786-988d-de22843881e2.png)
+### Model: Extreme Gradient Boost
+ - Result Summary: This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model next.
 
 ![image](https://user-images.githubusercontent.com/107438816/203433522-c71f34a8-6dcb-45d3-8d79-206b9b6f92fe.png)
 
