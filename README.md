@@ -19,7 +19,7 @@ Project Repository for the final project.
 ## Team Members
 #### Rohan Arun - Project Manager
 #### Jigisha Bengali - Database Designer
-#### Ryan Chapman - Machine Learning Engineer
+#### <a html="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>
 #### Andrew In - Data Analyst
 #### Akbar Saidakramov - Web Developer
 
