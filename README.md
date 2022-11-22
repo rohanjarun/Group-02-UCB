@@ -38,29 +38,32 @@ The government and its spending are essential to us as taxpayers, and we want to
 
 # Data Analysis
 ## Input Data
-### Features: US Government Energy Award Contracts (2016-2021)
+### Features: US Federal Award Contract Spending in Energy (2016-2021)
   Source: USASPENDING.gov<br />
   Description: US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.<br />
   Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC<br />
   Fed Energy Contract Spending (2016-2021) by Award Recipient
 
-Awarding Agency<br />
+  Awarding Agency<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png)
 <br /><br />
-Award Recipient<br />
+  Award Recipient<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439217-341eec48-3446-4b19-a3b1-3c4bfc753291.png)
 <br /><br />
-Industry Code (NAICS)<br />
+  Industry Code (NAICS)<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439412-effbae38-2a16-4416-9cc2-363a208e44e5.png)
 <br /><br />
-Product Services Code (PSC)<br />
+  Product Services Code (PSC)<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439434-1d0f0aae-b54a-44a7-9870-f788bf3646dc.png)
 
 
 
-### Historical Raw Material Market Prices (Pink Sheet)
-  Source: UN associated international financial institution. <br />
+### Target: Historical US Natural Gas Prices
+  Source: <a href="https://www.worldbank.org/en/research/commodity-markets"> World Bank Commodity Market Data </a> "Pink Sheet" <br />
   Description: UN associated international financial institution.<br />
+  ![image](https://user-images.githubusercontent.com/107438816/203439851-312217f5-2d95-419a-8799-95cdae5a6991.png)
+
+  
 
 ## Machine Learning
 
