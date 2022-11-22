@@ -90,3 +90,6 @@ Akbar: Databases, SQL, Pandas, JavaScript, CSS, HTML
 
 ## Link to slides
 https://docs.google.com/presentation/d/1BtSJ0rQH5krcPL6SDq5D2viGjvZ8zvCgHsRkYwpSSaE/edit?usp=sharing
+
+## Link to website
+[Our website link](https://saidakramov.github.io/Group_2_website/)
