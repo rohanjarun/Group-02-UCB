@@ -48,6 +48,24 @@ The government and its spending are essential to us as taxpayers, and we want to
   Description: UN associated international financial institution.
 
 ## Machine Learning
+
+### Data preprocessing
+Encode the Data
+![image](https://user-images.githubusercontent.com/107438816/203438047-eed47b4b-2917-4927-ac5a-ea3a55b7883d.png)
+Scale the Data
+![image](https://user-images.githubusercontent.com/107438816/203438182-c7490620-013d-4045-8f6f-ea13a3ea56b1.png)
+
+
+
+Feature selection
+How data was split into training and testing sets
+Model choice, including limitations and benefits
+Changes in model choice
+Description of how model was trained (or retrained, if they are using an
+existing model)
+Description and explanation of model’s confusion matrix, including final
+accuracy score
+
 ![image](https://user-images.githubusercontent.com/107438816/203433372-3be51e14-44f5-4646-8703-9735c11fb18b.png)
 
 ![image](https://user-images.githubusercontent.com/107438816/203433466-069a3d3a-bc31-4786-988d-de22843881e2.png)
