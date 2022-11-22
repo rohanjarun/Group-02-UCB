@@ -48,19 +48,34 @@ The government and its spending are essential to us as taxpayers, and we want to
   Description: UN associated international financial institution.
 
 ## Machine Learning
-Model: XGBoost
-N-Estimators:
-Training Score:
-Testing Score:
-Mean Squared Error (MSE) on test set:
-Results: 
+![image](https://user-images.githubusercontent.com/107438816/203433372-3be51e14-44f5-4646-8703-9735c11fb18b.png)
 
-Model: RandomForrest
-N-Estimators: 700
-Training Score: 0.4014
-Testing Score: -0.0782
-Mean Squared Error (MSE) on test set: 0.5155
-Results:
+![image](https://user-images.githubusercontent.com/107438816/203433466-069a3d3a-bc31-4786-988d-de22843881e2.png)
+
+![image](https://user-images.githubusercontent.com/107438816/203433522-c71f34a8-6dcb-45d3-8d79-206b9b6f92fe.png)
+
+![image](https://user-images.githubusercontent.com/107438816/203433573-613ff3a4-3172-4f4f-bace-a8fe25e36ca3.png)
+
+## ML Finding #1
+9 companies receive half of all US Energy Contract Awards.
+Counterintuitively, smaller awardees demonstrate a higher correlation with Natural Gas prices.
+
+## Recommendation
+Further exploratory analysis into company and contract details
+“How do these companies differ from competitors?”
+“Why do the 9 companies receiving  50% of all awards not appear on the top 10 feature list?”
+
+![image](https://user-images.githubusercontent.com/107438816/203433678-c0fa23a7-20d8-4049-9bda-442a6e8ede80.png)
+
+![image](https://user-images.githubusercontent.com/107438816/203433736-94e41b02-60b2-4724-880c-a95228258ed8.png)
+
+## ML Finding #2
+The ‘Crushed and Broken Limestone Mining and Quarrying’ industry demonstrates a consistent feature correlation to US natural gas prices in our machine learning models.
+
+## Recommendation
+In depth research analysis on correlations between Natural Gas and Limestone Industries for future models.
+
+![image](https://user-images.githubusercontent.com/107438816/203433808-d75a5da6-529b-4a77-a7ab-fc0c4871c717.png)
 
  
 ## Tools, Technologies, & Languages
