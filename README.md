@@ -95,7 +95,7 @@ Further exploratory analysis into company and contract details<br />
 “How do these companies differ from competitors?”<br />
 “Why do the 9 companies receiving  50% of all awards not appear on the top 10 feature list?”<br />
 
-![image](https://user-images.githubusercontent.com/107438816/203433678-c0fa23a7-20d8-4049-9bda-442a6e8ede80.png)
+![image](https://user-images.githubusercontent.com/107438816/203433678-c0fa23a7-20d8-4049-9bda-442a6e8ede80.png)<br />
 
 ![image](https://user-images.githubusercontent.com/107438816/203433736-94e41b02-60b2-4724-880c-a95228258ed8.png)
 
