@@ -77,6 +77,7 @@ The government and its spending are essential to us as taxpayers, and we want to
  - Result Summary: This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model next.
 ![image](https://user-images.githubusercontent.com/107438816/203445005-b2e73d54-21ee-46d4-9438-c48fbff86e97.png)
 
+![image](https://user-images.githubusercontent.com/107438816/203448717-22ab1c1f-571d-4824-8ad1-0ff96e8cf7b1.png)
 
 
 ### Model: Extreme Gradient Boost
