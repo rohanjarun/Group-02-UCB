@@ -29,10 +29,9 @@ The government and its spending are essential to us as taxpayers, and we want to
 
 # Data Analysis
 ### Feature Data: US Federal Award Contract Spending in Energy (2016-2021)
- - Source: <a href="https://www.usaspending.gov/search/?hash=96e9318d4713b23d03e6f45310388055">USASPENDING.gov</a><br />
- - Description: US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.<br />
- - Subdata: Contract Recipient, Awarding Agency, Amount, NAIC,  SIC<br />
- - Fed Energy Contract Spending (2016-2021) by Award Recipient
+ - **Source:** <a href="https://www.usaspending.gov/search/?hash=96e9318d4713b23d03e6f45310388055">USASPENDING.gov</a><br />
+ - **Description:** US Government website that links data from many government systems, including agency financial systems and governmentwide award systems.<br />
+ - **Subdata:** Contract Recipient, Awarding Agency, Amount, NAIC,  SIC<br />
 
   **Subdata: Awarding Agency**<br />
 ![image](https://user-images.githubusercontent.com/107438816/203439363-e03fcbb8-4185-43eb-a30d-3c348a4f836e.png)
@@ -52,8 +51,8 @@ The government and its spending are essential to us as taxpayers, and we want to
 
 
 ### Target Data: Historical US Natural Gas Prices
- - Source: <a href="https://www.worldbank.org/en/research/commodity-markets"> World Bank Commodity Market Data </a> "Pink Sheet" <br />
- - Description: UN associated international financial institution.<br />
+ - **Source:** <a href="https://www.worldbank.org/en/research/commodity-markets"> World Bank Commodity Market Data </a> "Pink Sheet" <br />
+ - **Description:** UN associated international financial institution.<br />
   ![image](https://user-images.githubusercontent.com/107438816/203439851-312217f5-2d95-419a-8799-95cdae5a6991.png)
 
   
