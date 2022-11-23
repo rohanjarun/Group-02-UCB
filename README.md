@@ -1,22 +1,22 @@
 ## Table of Contents
 
-1. [Question](#question)
+1. [Project Introduction](#question)
 
-2. [Project Summary](#project-summary)
+2. [Data Sources](#data-sources)
 
-3. [Data Sources](#data-sources)
+3. [Machine Learning](#machine-learning)
 
-4. [Tools](#tools)
+3. [Tools](#tools)
 
 5. [Task Breakdown](#task-breakdown)
 
  
 ## Group-02-UCB
-#### Rohan Arun - Project Manager
-#### Jigisha Bengali - Database Designer
-#### <a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>
-#### Andrew In - Data Analyst
-#### Akbar Saidakramov - Web Developer
+**Rohan Arun - Project Manager**
+**Jigisha Bengali - Database Designer**
+**<a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>**
+**Andrew In - Data Analyst**
+**Akbar Saidakramov - Web Developer**
 
 ## Question
 How does US Federal award contract spending impact natural gas prices?
