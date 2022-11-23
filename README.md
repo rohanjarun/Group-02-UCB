@@ -88,8 +88,8 @@ The government and its spending are essential to us as taxpayers, and we want to
 ![image](https://user-images.githubusercontent.com/107438816/203444883-e7ec1faa-5c81-4cba-b8eb-3eedf7fbbef1.png)
 
 ### **Machine Learning Finding #1**
- - 9 companies receive half of all US Energy Contract Awards.<br />
- - Counterintuitively, smaller awardees demonstrate a higher correlation with Natural Gas prices.<br />
+9 companies receive half of all US Energy Contract Awards.<br />
+Counterintuitively, smaller awardees demonstrate a higher correlation with Natural Gas prices.<br />
 
 **Our Recommendation**
 - Further exploratory analysis into company and contract details
@@ -101,7 +101,7 @@ The government and its spending are essential to us as taxpayers, and we want to
 ### Machine Learning Finding #2
 The ‘Crushed and Broken Limestone Mining and Quarrying’ industry demonstrates a consistent feature correlation to US natural gas prices in our machine learning models.<br />
 
-**Our Recommendation**
+**Our Recommendation** </br>
 In depth research analysis on correlations between Natural Gas and Limestone Industries for future models.<br />
 
  
