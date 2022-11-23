@@ -12,11 +12,11 @@
 
  
 ## Group-02-UCB
-**Rohan Arun - Project Manager**
-**Jigisha Bengali - Database Designer**
-**<a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>**
-**Andrew In - Data Analyst**
-**Akbar Saidakramov - Web Developer**
+ - **Rohan Arun - Project Manager**
+ - **Jigisha Bengali - Database Designer**
+ - **<a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>**
+ - **Andrew In - Data Analyst**
+ - **Akbar Saidakramov - Web Developer**
 
 ## Project Summary
 Question: How does US Federal award contract spending impact natural gas prices?
