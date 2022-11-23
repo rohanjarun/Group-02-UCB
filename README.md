@@ -75,26 +75,25 @@ The government and its spending are essential to us as taxpayers, and we want to
 
 ### Model: Random Forest Regression
  - Result Summary: This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model next.
+
 ![image](https://user-images.githubusercontent.com/107438816/203445005-b2e73d54-21ee-46d4-9438-c48fbff86e97.png)
 
 ![image](https://user-images.githubusercontent.com/107438816/203448717-22ab1c1f-571d-4824-8ad1-0ff96e8cf7b1.png)
 
-
 ### Model: Extreme Gradient Boost
- - Result Summary: This model scored a MSE of 0.5426 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we highlighted the awardees in the overall data and noticed that while 9 companies received 50% of the funding, none of these companies had high feature impact. Because Random Forest is not the most sophisticated model, we then tried a boosting model next.
+ - Result Summary: This model scored a MSE of 0.5425 with target prices ranging from 5.11 to 1.61. After printing our the top 10 features list, we again highlighted the awardees in the overall data. This time, the companies with the highest feature correlation made up even less of the contract aweards. Most notable, Progas only received $10K in funding and had the highest feature importance for awardees.
 
 ![image](https://user-images.githubusercontent.com/107438816/203444941-ca33565d-4094-449b-9ae9-7c8fd3f150fe.png)
 <br />
 ![image](https://user-images.githubusercontent.com/107438816/203444883-e7ec1faa-5c81-4cba-b8eb-3eedf7fbbef1.png)
 
-### ML Finding #1
-9 companies receive half of all US Energy Contract Awards.<br />
-Counterintuitively, smaller awardees demonstrate a higher correlation with Natural Gas prices.<br />
-
-### Recommendation
-Further exploratory analysis into company and contract details<br />
-“How do these companies differ from competitors?”<br />
-“Why do the 9 companies receiving  50% of all awards not appear on the top 10 feature list?”<br />
+**Machine Learning Finding #1**
+ - 9 companies receive half of all US Energy Contract Awards.<br />
+ - Counterintuitively, smaller awardees demonstrate a higher correlation with Natural Gas prices.<br />
+**Recommendation**
+- Further exploratory analysis into company and contract details
+- “How do these companies differ from competitors?”
+- “Why do the 9 companies receiving  50% of all awards not appear on the top 10 feature list?”<br />
 
 ![image](https://user-images.githubusercontent.com/107438816/203433678-c0fa23a7-20d8-4049-9bda-442a6e8ede80.png)<br />
 
