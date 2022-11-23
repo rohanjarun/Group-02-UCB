@@ -1,22 +1,17 @@
-# Group-02-UCB
-Project Repository for the final project. 
-
 ## Table of Contents
 
-1. [Team Members](#team-members)
+1. [Question](#question)
 
-2. [Question](#question)
+2. [Project Summary](#project-summary)
 
-3. [Project Summary](#project-summary)
+3. [Data Sources](#data-sources)
 
-4. [Data Sources](#data-sources)
+4. [Tools](#tools)
 
-5. [Tools](#tools)
-
-6. [Task Breakdown](#task-breakdown)
+5. [Task Breakdown](#task-breakdown)
 
  
-## Team Members
+## Group-02-UCB
 #### Rohan Arun - Project Manager
 #### Jigisha Bengali - Database Designer
 #### <a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>
