@@ -1,6 +1,6 @@
 ## Table of Contents
 
-1. [Project Introduction](#question)
+1. [Project Introduction](#Group-02-UCB)
 
 2. [Data Sources](#Data-Analysis)
 
