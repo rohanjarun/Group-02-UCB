@@ -12,11 +12,11 @@
 
  
 ## Group-02-UCB
- - **Rohan Arun - Project Manager**
+ - **<a href="https://github.com/rohanjarun"> Rohan Arun - Project Manager </a>**
  - **<a href="https://github.com/jigishab">  Jigisha Bengali - Database Designer </a>**
  - **<a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>**
  - **<a href="https://github.com/andrewykin"> Andrew In - Data Analyst </a>**
- - **Akbar Saidakramov - Web Developer**
+ - **<a href="https://github.com/Saidakramov"> Akbar Saidakramov - Web Developer </a>**
 
 ## Project Summary
 Question: How does US Federal award contract spending impact natural gas prices?
