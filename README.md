@@ -15,7 +15,7 @@
  - **Rohan Arun - Project Manager**
  - **<a href="https://github.com/jigishab">  Jigisha Bengali - Database Designer </a>**
  - **<a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>**
- - **Andrew In - Data Analyst**
+ - **<a href="https://github.com/andrewykin"> Andrew In - Data Analyst </a>**
  - **Akbar Saidakramov - Web Developer**
 
 ## Project Summary
