@@ -133,7 +133,7 @@ In depth research analysis on correlations between Natural Gas and Limestone Ind
 
 **Jigisha Bengali:** Collect/Clean the data, Created Join Tables, Top_20 queries, Python: 4,7 & 8 (SQL, Pandas,ETL)
 
-**Andrew:** Dashboard, slides, Python, 1, 2, 3, 4, 5, 7(ish), 14
+**Andrew:** Cleaning data in Pandas, Python, Matplotlib visualizations, slides, exploratory data & visualizations
 
 **Akbar:** Databases, SQL, Pandas, JavaScript, CSS, HTML
 
