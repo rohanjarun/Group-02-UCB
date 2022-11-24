@@ -13,7 +13,7 @@
  
 ## Group-02-UCB
  - **Rohan Arun - Project Manager**
- - **Jigisha Bengali - Database Designer**
+ - **<a href="https://github.com/jigishab">  Jigisha Bengali - Database Designer </a>**
  - **<a href="https://github.com/WeirdFishez"> Ryan Chapman - Machine Learning Engineer </a>**
  - **Andrew In - Data Analyst**
  - **Akbar Saidakramov - Web Developer**
